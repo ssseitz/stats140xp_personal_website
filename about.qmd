@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "Santsibyllah Seitz"
+about:
+  template: broadside
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ssseitz
+    - text: Email
+      url: "mailto:santsiseitz@g.ucla.edu" 
 ---
 
-About this site
+Santsibyllah Seitz is a senior at UCLA graduating in June 2025 with a Bachelor's in Science in both Mathematics and Statistics and Data Science. She is planning on attending law school in the fall of 2025. Download [My CV](Latex_Resume_Feb_2025.pdf)
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+B.S in *Mathematics* and *Statistics and Data Science* | Sept 2022 - June 2025
+
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
+---

@@ -1,0 +1,17 @@
+{
+  "hash": "8a846d8352ade5c7cacd5e35f475411d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Santsibyllah Seitz\"\nabout:\n  template: broadside\n  image: profile.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/ssseitz\n---\n\n\n\n\n\n\n\nSantsibyllah Seitz is a senior at UCLA graduating in June 2025 with a Bachelor's in Science in both Mathematics and Statistics and Data Science. She is planning on attending law school in the fall of 2025.\n\n## Education\n\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Mathematics | Sept 2011 - June 2015\n\nMacalester College | St. Paul, MN\nB.A in Economics | Sept 2007 - June 2011\n\n## Experience\n\nWengo Analytics | Head Data Scientist | April 2018 - present\n\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\n\n---\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Santsibyllah Seitz",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Santsibyllah Seitz is a senior at UCLA graduating in June 2025 with a Bachelor’s in Science in both Mathematics and Statistics and Data Science. She is planning on attending law school in the fall of 2025. Download My CV"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "Home",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Santsibyllah Seitz",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Mathematics and Statistics and Data Science | Sept 2022 - June 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Santsibyllah Seitz",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
