@@ -10,7 +10,8 @@ about:
     - icon: cake2
       text: Resume
       href: Latex_Resume_Feb_2025.pdf
-    - text: Email
+    - icon: envelope-at
+      text: Email
       url: "mailto:santsiseitz@g.ucla.edu" 
 ---
 
