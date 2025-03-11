@@ -1,11 +1,35 @@
 ---
-title: "Home"
+title: "Santsibyllah Seitz"
+about:
+  template: broadside
+  image: Stats140XPWebsite.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ssseitz
+    - icon: cake2
+      text: Resume
+      href: Latex_Resume_Feb_2025.pdf
+    - text: Email
+      url: "mailto:santsiseitz@g.ucla.edu" 
 ---
 
-This is a Quarto website.
+Hello! My name is Santsibyllah Seitz, but I got by Santsi. I am currently a senior at UCLA double majoring in Mathematics and Statistics and Data Science. My expected graduation date is June 2025, and I will be recieving my Bachelor's of Science. I am She is planning on attending law school in the fall of 2025. Download [My CV](Latex_Resume_Feb_2025.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles \| Los Angeles, CA B.S in *Mathematics* and *Statistics and Data Science* \| Sept 2022 - June 2025
+
+## Experience
+
+UCLA Women & Philanthropy \| Student Worker \| Feb 2023 - Present
+
+Private Tutor \| Homeschool English Tutor \| Nov 2023 - Jan 2025
+
+Bianchi Lab \| Undergraduate Research Assistant \| Feb 2024 - Dec 2024
+
+Candlewick Press \| Seasonal Administrative and Mailing Services Assistant \| June 2024 - Sept 2024
+
+Fogel Lab \| Undergraduate Research Assistant \| Oct 2023 - Feb 2024
+
+Carter's Retail \| Seasonal Sales Associate \| July 2023 - Sept 2023
