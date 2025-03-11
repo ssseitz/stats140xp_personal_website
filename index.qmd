@@ -7,7 +7,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ssseitz
-    - icon: cake2
+    - icon: file-earmark-text
       text: Resume
       href: Latex_Resume_Feb_2025.pdf
     - icon: envelope-at
