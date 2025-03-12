@@ -1,0 +1,7 @@
+---
+title: "Alcohol"
+description: "Project predicting alcoholism"
+image: Stats140XPWebsite.png
+---
+
+yappity yap yap
