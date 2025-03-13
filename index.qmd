@@ -9,7 +9,7 @@ about:
       href: https://github.com/ssseitz
     - icon: file-earmark-text
       text: Resume
-      href: Latex_Resume_Feb_2025.pdf
+      href: Seitz_S_Resume_BW_021825.pdf
     - icon: envelope-at
       text: Email
       url: "mailto:santsiseitz@g.ucla.edu" 
