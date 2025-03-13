@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "Alcohol\n\n\nProject predicting alcoholism\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrabs\n\n\nProject about crabs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOxygen and Cognitive Abilities\n\n\nThis project explores the effect of oxygen percentage on reading comprehension\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Crab Age Prediction\n\n\nThis project aims to estimate the age of crabs based on readily-measurable physical attributes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOxygen and Cognitive Abilities\n\n\nThis project explores the effect of oxygen percentage on reading comprehension.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Alcoholic Status Based on Vitals\n\n\nThis classification project aims to create a model to predict Alcoholic Status.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/crabs.html",
     "href": "projects/crabs.html",
-    "title": "Crabs",
+    "title": "Crab Age Prediction",
     "section": "",
-    "text": "Yap yap yap yap."
+    "text": "Abstract: In crab farming, the ability to tell the age of a given crab is essential in order for farmers to know the ideal time to harvest them. In particular, after attaining a certain age, crabs grow at a negligible rate, so the ability to accurately estimate their age can help to minimize the costs associated with their upkeep and thereby maximize profits. The goal of this report is to estimate the age of crabs based on readily-observable physical attributes. \nIn order to complete this task, analysis was performed using linear regression on the dataset CrabsAgePrediction.csv which was found on Kaggle, uploaded by Gursewak Singh Sidhu. This dataset includes measurements of 3893 mud crabs found in the Boston area. These measurements include age, sex, height, length, diameter, weight, shucked weight, shell weight, and viscera weight. While the original dataset does include the weight of the crabs, this was not used in the analysis as shucked weight, shell weight, and viscera weight add up to equal the total weight. It was found that the model that best predicts the age of the mud crabs in the Boston area uses the shucked weight, shell weight, height, diameter, and an additional variable is.intermediate, which categorizes the sex of the crabs into either “intermediate” or “not intermediate,” in order to predict the logarithm of the Age. This model eliminated variables that were not statistically significant and used a log transformation on the variable Age to reduce the nonlinearity issue it had with other variables."
   },
   {
     "objectID": "projects/alcohol.html",
     "href": "projects/alcohol.html",
-    "title": "Alcohol",
+    "title": "Predicting Alcoholic Status Based on Vitals",
     "section": "",
-    "text": "yappity yap yap"
+    "text": "Abstract: The objective of the Kaggle project is to utilize classification models on the provided dataset to predict alcoholic status using a person’s vitals.  The report offers a comprehensive overview of the process of building our final model, encompassing introduction, data imputation, classification methods, hero model, as well as discussions on the limitations and potential improvements of our work.  \nOur hero model is built on neural networks. The following predictors were used in the model: sex, age, waist, DBP, BLDS, HDL_chole, LDL_chole, triglyceride, hemoglobin, urine_protein, serum_creatine, SGOT_AST, SGOT_ALT, gamma_GTP, and Smoking.Status. Achieving a final accuracy score of 0.73120, our model ranked 23rd in the Kaggle competition. \nFinal Report\nKaggle Competition Page"
   },
   {
     "objectID": "projects/oxygen.html",
@@ -32,14 +32,14 @@
     "href": "index.html",
     "title": "Santsibyllah Seitz",
     "section": "",
-    "text": "Hello! My name is Santsibyllah Seitz, but I got by Santsi. I am currently a senior at UCLA double majoring in Mathematics and Statistics and Data Science. My expected graduation date is June 2025, and I will be recieving my Bachelor’s of Science. I am She is planning on attending law school in the Fall of 2025."
+    "text": "Hello! My name is Santsibyllah Seitz, but I go by Santsi. I am currently a senior at UCLA double majoring in Mathematics and Statistics and Data Science. My expected graduation date is June 2025, and I will be recieving my Bachelor’s of Science. I am planning on attending law school in the Fall of 2025."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Santsibyllah Seitz",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Mathematics and Statistics and Data Science | Sept 2022 - June 2025"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S in Mathematics and Statistics and Data Science | Sept 2022 - June 2025"
   },
   {
     "objectID": "index.html#experience",

@@ -1,7 +1,15 @@
 ---
-title: "Alcohol"
-description: "Project predicting alcoholism"
-image: Stats140XPWebsite.png
+title: "Predicting Alcoholic Status Based on Vitals"
+description: "This classification project aims to create a model to predict Alcoholic Status."
+image: Alcohol.webp
 ---
 
-yappity yap yap
+![](Alcohol.webp)
+
+**Abstract:** The objective of the Kaggle project is to utilize classification models on the provided dataset to predict alcoholic status using a person’s vitals.  The report offers a comprehensive overview of the process of building our final model, encompassing introduction, data imputation, classification methods, hero model, as well as discussions on the limitations and potential improvements of our work.  
+
+Our hero model is built on neural networks. The following predictors were used in the model: sex, age, waist, DBP, BLDS, HDL_chole, LDL_chole, triglyceride, hemoglobin, urine_protein, serum_creatine, SGOT_AST, SGOT_ALT, gamma_GTP, and Smoking.Status. Achieving a final accuracy score of 0.73120, our model ranked 23rd in the Kaggle competition. 
+
+[Final Report](\STATS_101C_Final_Project_Report.pdf)
+
+[Kaggle Competition Page](https://www.kaggle.com/competitions/predicting-alcoholic-status-using-persons-vitals/discussion?sort=hotness)

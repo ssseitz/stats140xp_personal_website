@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Project about crabs">
+<meta name="description" content="This project aims to estimate the age of crabs based on readily-measurable physical attributes.">
 
-<title>Crabs – Santsibyllah Seitz</title>
+<title>Crab Age Prediction – Santsibyllah Seitz</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -116,12 +116,12 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Crabs</h1>
+<h1 class="title">Crab Age Prediction</h1>
 </div>
 
 <div>
   <div class="description">
-    Project about crabs
+    This project aims to estimate the age of crabs based on readily-measurable physical attributes.
   </div>
 </div>
 
@@ -138,7 +138,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Yap yap yap yap.</p>
+<p><img src="Crab.jpg" class="img-fluid"></p>
+<p><strong>Abstract:</strong> In crab farming, the ability to tell the age of a given crab is essential in order for farmers to know the ideal time to harvest them. In particular, after attaining a certain age, crabs grow at a negligible rate, so the ability to accurately estimate their age can help to minimize the costs associated with their upkeep and thereby maximize profits. The goal of this report is to estimate the age of crabs based on readily-observable physical attributes.&nbsp;</p>
+<p>In order to complete this task, analysis was performed using linear regression on the dataset <a href="https://www.kaggle.com/datasets/sidhus/crab-age-prediction/code">CrabsAgePrediction.csv</a> which was found on Kaggle, uploaded by Gursewak Singh Sidhu. This dataset includes measurements of 3893 mud crabs found in the Boston area. These measurements include age, sex, height, length, diameter, weight, shucked weight, shell weight, and viscera weight. While the original dataset does include the weight of the crabs, this was not used in the analysis as shucked weight, shell weight, and viscera weight add up to equal the total weight. It was found that the model that best predicts the age of the mud crabs in the Boston area uses the shucked weight, shell weight, height, diameter, and an additional variable is.intermediate, which categorizes the sex of the crabs into either “intermediate” or “not intermediate,” in order to predict the logarithm of the Age. This model eliminated variables that were not statistically significant and used a log transformation on the variable Age to reduce the nonlinearity issue it had with other variables.&nbsp;</p>
 
 
 

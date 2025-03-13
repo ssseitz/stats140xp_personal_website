@@ -15,11 +15,11 @@ about:
       url: "mailto:santsiseitz@g.ucla.edu" 
 ---
 
-Hello! My name is Santsibyllah Seitz, but I got by Santsi. I am currently a senior at UCLA double majoring in Mathematics and Statistics and Data Science. My expected graduation date is June 2025, and I will be recieving my Bachelor's of Science. I am She is planning on attending law school in the Fall of 2025.
+Hello! My name is Santsibyllah Seitz, but I go by Santsi. I am currently a senior at UCLA double majoring in Mathematics and Statistics and Data Science. My expected graduation date is June 2025, and I will be recieving my Bachelor's of Science. I am planning on attending law school in the Fall of 2025.
 
 ## Education
 
-University of California, Los Angeles \| Los Angeles, CA B.S in *Mathematics* and *Statistics and Data Science* \| Sept 2022 - June 2025
+University of California, Los Angeles \| Los Angeles, CA \| B.S in *Mathematics* and *Statistics and Data Science* \| Sept 2022 - June 2025
 
 ## Experience
 

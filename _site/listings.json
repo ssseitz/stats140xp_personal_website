@@ -2,9 +2,9 @@
   {
     "listing": "/about.html",
     "items": [
-      "/projects/alcohol.html",
       "/projects/crabs.html",
-      "/projects/oxygen.html"
+      "/projects/oxygen.html",
+      "/projects/alcohol.html"
     ]
   }
 ]

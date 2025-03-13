@@ -1,6 +1,6 @@
 ---
 title: "Oxygen and Cognitive Abilities"
-description: "This project explores the effect of oxygen percentage on reading comprehension"
+description: "This project explores the effect of oxygen percentage on reading comprehension."
 image: Lungs.webp
 ---
 
