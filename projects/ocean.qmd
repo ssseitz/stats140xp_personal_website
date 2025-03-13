@@ -1,0 +1,11 @@
+---
+title: "Models on West Coast Oceanic Data"
+description: "This project focused on using machine learning to create models using satellite data and oceanic sampling data to predict chlorophyll amounts and thus information relating to algal blooms."
+image: HABS.jpg
+---
+
+![](HABS.jpg){fig-align="center" width="506"}
+
+During my time as an Undergraduate Researcher in the Bianchi Lab at UCLA, I created many models taking advantage of machine learning in order to interpolate chlorophyll data with the ultimate goal of predicting values for Pseudo-nitzchia domoic acid, which is a toxin associated with harmful algal blooms. When enough domoic acid accumulates in shellfish, it can be harm humans as they ingest it.
+
+[Example Figures from Projects](\West_Coast_Data_Figure_Recreation_copy.pdf)

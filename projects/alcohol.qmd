@@ -4,7 +4,7 @@ description: "This classification project aims to create a model to predict Alco
 image: Alcohol.webp
 ---
 
-![](Alcohol.webp)
+![](Alcohol.webp){fig-align="center"}
 
 **Abstract:** The objective of the Kaggle project is to utilize classification models on the provided dataset to predict alcoholic status using a person’s vitals.  The report offers a comprehensive overview of the process of building our final model, encompassing introduction, data imputation, classification methods, hero model, as well as discussions on the limitations and potential improvements of our work.  
 

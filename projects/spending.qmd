@@ -1,0 +1,13 @@
+---
+title: "Pandemic Spending in Lockdown vs Non-Lockdown"
+description: "This project investigates how different lockdown measures within the United States have affected the economy since COVID-19."
+image: money.webp
+---
+
+![](/projects/money.webp){fig-align="center"}
+
+**Abstract:** This report investigates the impact of COVID-19 lockdown policies on spending, and whether said policies impacted the economic recovery of a city. We chose to focus on New York City, New York, a state that enforced a mandatory lockdown, and Omaha, Nebraska, a state that did not issue any stay-at-home or complete lockdown orders. This report uses data from the Opportunity Insights data tracker, a non-partisan, not-for-profit organization located at Harvard University. In order to conduct this analysis, we created several time series plots and conducted t-tests using our chosen variables. We found that spending overall was significantly different in the two cities — spending in arts and entertainment decreased while grocery spending increased in New York City, and arts spending increased while grocery spending remained unaffected in Omaha. Our t-tests indicate a significant difference as well, with a p-value \< 0.05. In conjunction, our t-tests and time series plots both suggest a rejection of the null hypothesis, thus, we conclude that lockdown policies have an impact on spending. However, due to our limiting factors (mainly the confounding variables which occur due to the differences in population, primary industry, and other aspects of the two cities), we are unable to concretely determine the exact impact lockdown policies have. Still, we believe our analysis could result in useful contributions regarding policy decisions, namely the impact that national disasters may have on spending and potential areas of impact to focus on.
+
+[Final Report](\STATS_140_Final_Report.pdf)
+
+[Final Poster](\Stats_140XP_Project_Poster.pdf)

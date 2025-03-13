@@ -3,7 +3,9 @@
     "listing": "/about.html",
     "items": [
       "/projects/crabs.html",
+      "/projects/ocean.html",
       "/projects/oxygen.html",
+      "/projects/spending.html",
       "/projects/alcohol.html"
     ]
   }
